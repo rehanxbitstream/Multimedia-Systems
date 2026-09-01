@@ -1,1 +1,14 @@
+================================
+      IMAGE METADATA REPORT
+================================
 
+File Name       : images.jpeg
+File Size       : 47.91 KB
+File Format     : JPEG
+Width           : 599 pixels
+Height          : 399 pixels
+Resolution      : 599 x 399 pixels
+Color Mode      : RGB
+
+EXIF Metadata
+-------------------------------
