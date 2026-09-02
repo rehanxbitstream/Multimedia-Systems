@@ -1,1 +1,19 @@
+================================
+      AUDIO METADATA REPORT
+================================
 
+File Name       : sample-6s.mp3
+File Size       : 100.65 KB
+File Format     : MP3
+
+AUDIO
+--------------------------------
+Duration        : 00:06
+Bit Rate        : 128 kbps
+Codec           : MP3
+Channels        : 2
+Sampling Rate   : 44100 Hz
+
+METADATA
+--------------------------------
+TSSE              : Lavf57.83.100
