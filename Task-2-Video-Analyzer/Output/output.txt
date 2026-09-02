@@ -1,0 +1,22 @@
+
+================================
+      VIDEO METADATA REPORT     
+================================
+
+File Name       : 7346137-uhd-2880-2160-25fps_JwmCPhGd.mp4
+File Size       : 5.53 MB
+Container       : mov,mp4,m4a,3gp,3g2,mj2 (QuickTime / MOV)
+Duration        : 19.08s (0m 19.1s)
+Overall Bitrate : 2432 kbps
+
+VIDEO STREAM #0
+--------------------------------
+Codec           : h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)
+Profile         : High
+Resolution      : 2880x2160
+Pixel Format    : yuv420p
+Framerate       : 25.00 fps
+Total Frames    : 477
+Bitrate         : 2429 kbps
+
+AUDIO: No audio stream found.
